@@ -1,0 +1,7 @@
+{
+  "name": "Mochi Desktop Companion",
+  "description": "A cute, interactive pixel-style desktop pet powered by Gemini 3. Mochi can chat, change moods, and follow your cursor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
